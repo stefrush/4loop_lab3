@@ -1,4 +1,6 @@
 # 4 Loop
 
 **Team Members:**
-Jeff 
+* Jeff 
+* Panitnan Yuvanondha
+* Stefan Rush
